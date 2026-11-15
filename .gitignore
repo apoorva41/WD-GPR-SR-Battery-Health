@@ -1,0 +1,8 @@
+# Ignore dataset files
+*.csv
+*.mat
+*.h5
+
+# Ignore environment and cache files
+__pycache__/
+.ipynb_checkpoints/
